@@ -1,7 +1,7 @@
 # Dicee-Challenge-Random-Dice-Game
 
-Projeto interativo em HTML, CSS, JavaScript e Jquery
+Projeto interativo em HTML, CSS, JavaScript e JQuery
 
-Interactive project with HTML, CSS, JavaScript e Jquery
+Interactive project with HTML, CSS, JavaScript e JQuery
 
 Veja online/See it online: https://julianaakemi.github.io/Dicee-Challenge-Random-Dice-Game/
